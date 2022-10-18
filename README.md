@@ -1,5 +1,18 @@
-### Hi there 👋
 
+__Hola *soy* Gabriel__
+
+*Esto es un **poco** de mi:*
+
+
+* ***Aficiones:***
+  * Videojuegos
+  * Magic the Gathering
+
+Autor anonimo:
+> En tiempos de guerra
+> cualquiel agujero es trinchera
+
+![Dugtrio](/dugtrio.jpg)
 <!--
 **galvarezl/galvarezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
